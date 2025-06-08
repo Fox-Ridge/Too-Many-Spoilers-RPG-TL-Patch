@@ -2,6 +2,16 @@ Update: 09/06/2025
 The creator of the game was kind enough to contact me an and updated version of this patch will be included in the Steam release as the official translation! Go play it here:
 https://store.steampowered.com/app/3739190/Heavy_Spoilers_RPG_The_true_identity_of_the_final_enemy_is_the_heros_father/
 
+
+
+
+
+
+
+
+
+
+
 This is a translation patch for the RPG maker game "Way too many spoilers RPG" by KSB Games.
 Get the game for free here: https://www.freem.ne.jp/win/game/30422 (You will have to make an account.)
 
